@@ -1,0 +1,29 @@
+.container {
+    width: 95%;
+    margin: 20px auto;
+    display: block;
+}
+.row {
+    display: block;
+    width: 100%;
+}
+.col-2 {
+    width: 16.67%;
+    display: inline-block;
+}
+.col-6 {
+    width: 50%;
+    display: inline-block;
+}
+.f-right {
+    float: right;
+}
+.header {
+    text-align: center;
+}
+.board {
+    margin-top: 40px;
+}
+html {
+   background-color: lawngreen;
+}
